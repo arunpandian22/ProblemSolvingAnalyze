@@ -1,0 +1,4 @@
+package kotlinProblemAnalyse
+
+class KotlinMain {
+}
