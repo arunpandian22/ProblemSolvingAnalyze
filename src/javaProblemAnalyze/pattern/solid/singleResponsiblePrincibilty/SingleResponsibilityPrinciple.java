@@ -6,5 +6,4 @@ public class SingleResponsibilityPrinciple {
         Book book = new Book();
         System.out.println(book.getCurrentPage());
     }
-
 }
